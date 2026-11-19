@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Md Rajekul Islam Rahid
 
-<!--
-**rajekulsec/rajekulsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Specialist | Penetration Testing • Malware Removal • WordPress Security • OSINT**
 
-Here are some ideas to get you started:
+## 🛡️ What I do
+- Website Penetration Testing
+- WordPress Malware Removal
+- WordPress Error Fixing
+- OSINT Investigation
+- Bug Bounty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Find me
+- 💼 Fiverr: https://www.fiverr.com/rajsec
+- 💼 LinkedIn: https://www.linkedin.com/in/md-rajekul-islam-507550450/
+- 🐦 X: https://x.com/RajekulIslam19
+- 🌐 Portfolio: https://muse.ai/s/portfolio-xmxp6sxdixrxuxpxq/3Zstr5Mh0EqMdO6Jota5_WD0Kk6ZrIKZnZoXn_OUfVA
+- 📧 Email: mdrajekul62990@gmail.com
+
+## 🛠️ Skills
+Penetration Testing · Bug Bounty · WordPress Security · OSINT · Network Security · WordPress Bug Fix · Migration · Malware Removal
